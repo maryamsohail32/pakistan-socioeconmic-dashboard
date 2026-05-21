@@ -514,6 +514,7 @@ def plot_dashboard(df_national: pd.DataFrame, df_city: pd.DataFrame):
     plt.savefig('pakistan_dashboard.png', dpi=150,
                 bbox_inches='tight', facecolor='#FAFAFA')
     print("  Visual dashboard saved as: pakistan_dashboard.png")
+st.image("pakistan_dashboard.png")
 
 
 # ─────────────────────────────────────────────
