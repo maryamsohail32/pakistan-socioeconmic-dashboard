@@ -5,3 +5,7 @@ keras
 numpy
 scikit-learn
 pandas
+streamlit>=1.30
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
